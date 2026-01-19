@@ -1,5 +1,5 @@
 # Task 3: Network Traffic Analysis (Wireshark)
-**Intern Name:** Melvin Fadil PK
+**Intern Name:** Mohammed Fadil PK
 **Date:** January 19, 2026
 
 ## 📄 Project Description
